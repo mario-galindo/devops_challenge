@@ -5,5 +5,5 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "rg" {
   name = "rg-devops-challenge"
-  location = "east"
+  location = "eastus"
 }
