@@ -4,7 +4,7 @@ and Azure Account and Download the Azure CLI before run this Terraform Solution
 
 ## Login to Azure 
 
-through CLI
+Through CLI
 
 ``` bash
 az login
